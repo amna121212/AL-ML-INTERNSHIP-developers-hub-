@@ -28,7 +28,7 @@ Historical stock data was collected from Yahoo Finance using the `yfinance` Pyth
 
 ---
 
-# Technologies and Libraries Used
+### Technologies and Libraries Used
 
 * Python
 * pandas
@@ -44,7 +44,7 @@ pip install pandas matplotlib scikit-learn yfinance
 
 ---
 
-# Project Workflow
+## Project Workflow
 
 ## 1. Import Libraries
 
@@ -135,7 +135,7 @@ using matplotlib.
 
 ---
 
-# Output
+### Output
 
 The project successfully:
 
@@ -146,7 +146,7 @@ The project successfully:
 
 ---
 
-# Skills Learned
+### Skills Learned
 
 This project helped in understanding:
 
@@ -159,6 +159,6 @@ This project helped in understanding:
 
 ---
 
-# Conclusion
+### Conclusion
 
 This task demonstrated how machine learning can be applied to stock market prediction using historical financial data. The Linear Regression model was able to estimate future stock closing prices based on important market features such as Open, High, Low, and Volume.
